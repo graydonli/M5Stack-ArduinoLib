@@ -1,0 +1,176 @@
+{
+    "packages": [
+        {
+            "maintainer": "M5Stack Inc",
+            "help": {
+                "online": "http://esp32.com"
+            },
+            "websiteURL": "https://github.com/espressif/arduino-esp32",
+            "platforms": [
+                {
+                    "category": "ESP32",
+                    "help": {
+                        "online": "https://github.com/0x1abin/m5stack-board-support/blob/master/Install.md"
+                    },
+                    "url": "http://www.m5stack.com/download/M5Stack-Core-ESP32-0.0.5.zip",
+                    "checksum": "SHA-256:3b72f76243e6110a564c1541223045bd258585b74d883e0874434a44eacf10fd",
+                    "version": "0.0.5",
+                    "architecture": "esp32",
+                    "archiveFileName": "M5Stack-Core-ESP32-0.0.5.zip",
+                    "boards": [
+                        {
+                            "name": "M5Stack-Core-ESP32"
+                        }
+                    ],
+                    "size": "41221910",
+                    "toolsDependencies": [
+                        {
+                            "packager": "esp32",
+                            "version": "1.22.0-80-g6c4433a-5.2.0",
+                            "name": "xtensa-esp32-elf-gcc"
+                        }
+                    ],
+                    "name": "M5Stack-Core-ESP32 Mainboard"
+                },
+                {
+                    "category": "ESP32",
+                    "help": {
+                        "online": "https://github.com/0x1abin/m5stack-board-support/blob/master/Install.md"
+                    },
+                    "url": "http://www.m5stack.com/download/M5Stack-Core-ESP32-0.0.4.zip",
+                    "checksum": "SHA-256:6c7ca4e7b1bd8e9c5aa30ea5316e4c64124da2e63e29d4b2be6082d3603dc508",
+                    "version": "0.0.4",
+                    "architecture": "esp32",
+                    "archiveFileName": "M5Stack-Core-ESP32-0.0.4.zip",
+                    "boards": [
+                        {
+                            "name": "M5Stack-Core-ESP32"
+                        }
+                    ],
+                    "size": "36180526",
+                    "toolsDependencies": [
+                        {
+                            "packager": "esp32",
+                            "version": "1.22.0-80-g6c4433a-5.2.0",
+                            "name": "xtensa-esp32-elf-gcc"
+                        }
+                    ],
+                    "name": "M5Stack-Core-ESP32 Mainboard"
+                },
+                {
+                    "category": "ESP32",
+                    "help": {
+                        "online": "https://github.com/0x1abin/m5stack-board-support/blob/master/Install.md"
+                    },
+                    "url": "http://www.m5stack.com/download/M5Stack-Core-ESP32-0.0.3.zip",
+                    "checksum": "SHA-256:e5cd793577684f59613674d3e5c72082779f565c172431bac6f44ee8653a3d5f",
+                    "version": "0.0.3",
+                    "architecture": "esp32",
+                    "archiveFileName": "M5Stack-Core-ESP32-0.0.3.zip",
+                    "boards": [
+                        {
+                            "name": "M5Stack-Core-ESP32"
+                        }
+                    ],
+                    "size": "35830688",
+                    "toolsDependencies": [
+                        {
+                            "packager": "esp32",
+                            "version": "1.22.0-80-g6c4433a-5.2.0",
+                            "name": "xtensa-esp32-elf-gcc"
+                        }
+                    ],
+                    "name": "M5Stack-Core-ESP32 Mainboard"
+                },
+                {
+                    "category": "ESP32",
+                    "help": {
+                        "online": "https://github.com/0x1abin/m5stack-board-support/blob/master/Install.md"
+                    },
+                    "url": "http://www.m5stack.com/download/M5Stack-Core-ESP32-0.0.2.zip",
+                    "checksum": "SHA-256:7666aa554e98e877e4b7c367d231e1f2820829fe94513f99e0a902ab6232f819",
+                    "version": "0.0.2",
+                    "architecture": "esp32",
+                    "archiveFileName": "M5Stack-Core-ESP32-0.0.2.zip",
+                    "boards": [
+                        {
+                            "name": "M5Stack-Core-ESP32"
+                        }
+                    ],
+                    "size": "35115132",
+                    "toolsDependencies": [
+                        {
+                            "packager": "esp32",
+                            "version": "1.22.0-80-g6c4433a-5.2.0",
+                            "name": "xtensa-esp32-elf-gcc"
+                        }
+                    ],
+                    "name": "M5Stack-Core-ESP32 Mainboard"
+                },
+                {
+                    "category": "ESP32",
+                    "help": {
+                        "online": "https://github.com/0x1abin/m5stack-board-support/blob/master/Install.md"
+                    },
+                    "url": "http://www.m5stack.com/download/M5Stack-Core-ESP32-0.0.1.zip",
+                    "checksum": "SHA-256:10fd6b975deed8cd2d63033977c18a7539df8bb3587dc868244ab3b1f1cbb6b4",
+                    "version": "0.0.1",
+                    "architecture": "esp32",
+                    "archiveFileName": "M5Stack-Core-ESP32-0.0.1.zip",
+                    "boards": [
+                        {
+                            "name": "M5Stack-Core-ESP32"
+                        }
+                    ],
+                    "size": "36620455",
+                    "toolsDependencies": [
+                        {
+                            "packager": "esp32",
+                            "version": "1.22.0-80-g6c4433a-5.2.0",
+                            "name": "xtensa-esp32-elf-gcc"
+                        }
+                    ],
+                    "name": "M5Stack-Core-ESP32 Mainboard"
+                }
+            ],
+            "tools": [
+                {
+                    "version": "1.22.0-80-g6c4433a-5.2.0",
+                    "name": "xtensa-esp32-elf-gcc",
+                    "systems": [
+                        {
+                            "url": "https://dl.espressif.com/dl/xtensa-esp32-elf-win32-1.22.0-80-g6c4433a-5.2.0.zip",
+                            "checksum": "SHA-256:c00dbdab8e8acc273d4aa319a74f7bb1d9496c843159823201d685359174168f",
+                            "host": "i686-mingw32",
+                            "archiveFileName": "xtensa-esp32-elf-win32-1.22.0-80-g6c4433a-5.2.0.zip",
+                            "size": "76346909"
+                        },
+                        {
+                            "url": "https://dl.espressif.com/dl/xtensa-esp32-elf-osx-1.22.0-80-g6c4433a-5.2.0.tar.gz",
+                            "checksum": "SHA-256:89a9a6084ec032ddcd4bdae37b428e533ed5fd0c0ab6b66ddf703e4b3f83d6e4",
+                            "host": "x86_64-apple-darwin",
+                            "archiveFileName": "xtensa-esp32-elf-osx-1.22.0-80-g6c4433a-5.2.0.tar.gz",
+                            "size": "40481812"
+                        },
+                        {
+                            "url": "https://dl.espressif.com/dl/xtensa-esp32-elf-linux64-1.22.0-80-g6c4433a-5.2.0.tar.gz",
+                            "checksum": "SHA-256:b74333fd7f622f035fee7c4e0ca57c3e2ccb2515de5d901f33e87e79cdf0d4f9",
+                            "host": "x86_64-pc-linux-gnu",
+                            "archiveFileName": "xtensa-esp32-elf-linux64-1.22.0-80-g6c4433a-5.2.0.tar.gz",
+                            "size": "37674568"
+                        },
+                        {
+                            "url": "https://dl.espressif.com/dl/xtensa-esp32-elf-linux32-1.22.0-80-g6c4433a-5.2.0.tar.gz",
+                            "checksum": "SHA-256:dbb342b7c377a7c3a1fcccc60fa1193332d0c37e6a90c5075d3471c13c9e94ad",
+                            "host": "i686-pc-linux-gnu",
+                            "archiveFileName": "xtensa-esp32-elf-linux32-1.22.0-59.tar.gz",
+                            "size": "41032647"
+                        }
+                    ]
+                }
+            ],
+            "email": "hristo@espressif.com",
+            "name": "esp32"
+        }
+    ]
+}
